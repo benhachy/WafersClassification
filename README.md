@@ -8,10 +8,9 @@
 - For **Technical readers** : you will find the report with the all the needed details as *Data_Challenge Report.pdf*
 
 ## Small intro:
-The goal of the challenge, sponsored by STMicroelectronics in Kaggle, is to build a deep
-learning model to classify images of errors in silicon wafers using a database of 8634
-microscopic images of wafers.
+The goal of the challenge, sponsored by STMicroelectronics (a global semiconductor company that produces electronic components) in Kaggle, is to build a deep
+learning model to classify images of errors in silicon wafers using a database of *8634* microscopic images of wafers.
 
 ## Results:
-Ranked 3rd in the leaderboard with an accuracy of 98% (private score)
-69 ms for inference time on GPU
+- Ranked *3rd* in the leaderboard with an accuracy of *98%* (private score)
+- *69 ms* for inference time on GPU
