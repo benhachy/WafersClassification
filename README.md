@@ -1,11 +1,11 @@
 # Data Challenge : Wafers Images Classification
 
 
-- For **Quick readers** : the presentation with the method and results is in this file : Data Challenge presentation.pptx
+- For **Quick readers** : the presentation with the method and results is in this file : *Data Challenge presentation.pptx*
 
-- For **Code readers** : please find the notebook as Data Challenge - notebook.ipynb
+- For **Code readers** : please find the notebook as *Data Challenge - notebook.ipynb*
 
-- For **Technical readers** : you will find the report with the all the needed details as Data_Challenge Report.pdf
+- For **Technical readers** : you will find the report with the all the needed details as *Data_Challenge Report.pdf*
 
 ## Small intro:
 The goal of the challenge, sponsored by STMicroelectronics in Kaggle, is to build a deep
